@@ -1,0 +1,1 @@
+<?php file_put_contents( "wp.zip", fopen("http://wordpress.org/latest.zip", "r") ); ?>
